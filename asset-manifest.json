@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/annemarieb78/moviedux/static/css/main.b1b789ba.css",
+    "main.js": "/annemarieb78/moviedux/static/js/main.6d85ea35.js",
+    "static/js/453.934938f1.chunk.js": "/annemarieb78/moviedux/static/js/453.934938f1.chunk.js",
+    "static/media/logo.svg": "/annemarieb78/moviedux/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/annemarieb78/moviedux/index.html",
+    "main.b1b789ba.css.map": "/annemarieb78/moviedux/static/css/main.b1b789ba.css.map",
+    "main.6d85ea35.js.map": "/annemarieb78/moviedux/static/js/main.6d85ea35.js.map",
+    "453.934938f1.chunk.js.map": "/annemarieb78/moviedux/static/js/453.934938f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1b789ba.css",
+    "static/js/main.6d85ea35.js"
+  ]
+}
